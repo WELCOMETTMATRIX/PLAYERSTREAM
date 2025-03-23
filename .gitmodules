@@ -1,0 +1,3 @@
+[submodule "playstream"]
+	path = playstream
+	url = https://github.com/WELCOMETTMATRIX/PLAYERSTREAM.git
